@@ -1,6 +1,6 @@
 # Filename  ：test.py
 # Author by ：袁成龙
-# Data      ：2023 02 18 14:00
+# Data      ：2022 10 18 14:00
 ###########################  SUCCESS  ###########################
 import smtplib
 from email.mime.image import MIMEImage
